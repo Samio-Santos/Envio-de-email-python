@@ -18,7 +18,7 @@ try:
 
     # Formatação do cabelho do e-mail.
     # MIME-version: 1.0 e Content-type: text/html aceita padrão de envio em html.
-    msg = f'''From: Samio Santos <{de}>
+    msg = f'''From: <{de}>
 To: {paras}
 MIME-version: 1.0
 Content-type: text/html
