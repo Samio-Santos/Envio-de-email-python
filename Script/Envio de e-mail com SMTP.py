@@ -24,7 +24,7 @@ MIME-version: 1.0
 Content-type: text/html
 Subject: {assunto}\n\n'''
 
-    # Escrever o conteúdo da mensagem
+    # Escreva o conteúdo da mensagem
     print('Pressione ENTER e depois CTRL+D para finalizar a mensagem.')
     print('Mensagem: \n')
     while True:
