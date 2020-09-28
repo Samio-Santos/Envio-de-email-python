@@ -1,2 +1,2 @@
 # Envio-de-email-python
- Script para enviar e-mail com PYTHON usando o protocolo de SMTP.
+ Script para enviar e-mail com PYTHON utilizando o protocolo SMTP.
